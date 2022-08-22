@@ -49,7 +49,7 @@ Access to the GitHub project and clone or download the project, you can do this 
 To use this app you will need to download and install the Terminal for Mac or GitBash for Windows. You may also need to install [node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/), [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and [insomnia](https://insomnia.rest/download) to test the project. You will open the project in the code editor of your choice and then open the terminal and type "npm install" or "npm i" to install all the dependencies required. After installing MongoDB, on your terminal or GitBash you will need to type "mongod" to start the server, this will allow a successfully connection with the project. Finally you will be able to start the project typing "npm start" on your terminal or GitBash. And that is it, now you are able to test the code with insomnia!
 
 ## Credits and Reference
-The following links helped me with the project: [Mongoose](https://www.npmjs.com/package/mongoose).
+The following links helped me with the project: [Mongoose](https://www.npmjs.com/package/mongoose)and [Express](https://www.npmjs.com/package/express).
 
 ## Tests
 npm test
