@@ -22,6 +22,10 @@
 #
 
 ##  Project Links
+
+Walkthrough Video:
+https://youtu.be/pQNc4nTKdWA
+
 GitHub project:
 https://github.com/Israel2800/NoSQL-Social-Network-API
 
