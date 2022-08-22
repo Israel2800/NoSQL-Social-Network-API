@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Israel2800/NoSQL-Social-Network-API#readme",
   "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.9"
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
   }
 }
