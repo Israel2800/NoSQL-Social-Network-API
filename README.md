@@ -26,6 +26,7 @@ GitHub project:
 https://github.com/Israel2800/NoSQL-Social-Network-API
 
 ## Screenshots-Demo
+
 **Insomnia GET Test:**
 
 ![Screenshot of the GET method with insomnia.](images/screenshot-1.png)
