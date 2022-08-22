@@ -26,9 +26,25 @@ GitHub project:
 https://github.com/Israel2800/NoSQL-Social-Network-API
 
 ## Screenshots-Demo
-**Insomnia Tests:**
+**Insomnia GET Test:**
 
-![Screenshot of the GET method with insomnia.](images/screenshot-1)
+![Screenshot of the GET method with insomnia.](images/screenshot-1.png)
+
+**Insomnia POST Test:**
+
+![Screenshot of the POST method with insomnia.](images/screenshot-2.png)
+
+**Insomnia PUT Test:**
+
+![Screenshot of the PUT method with insomnia.](images/screenshot-3.png)
+
+**Insomnia DELETE Test:**
+
+![Screenshot of the DELETE method with insomnia.](images/screenshot-4.png)
+
+**Insomnia GET a user by id Test:**
+
+![Screenshot of the GET a user by id method with insomnia.](images/screenshot-5.png)
 
 ## Project Objective
 To create a Social Network API using a NoSQL database, so that the website will handle large amounts of unstructured data; we will be able to add, update, delete and view specific information using the POST, PUT, DELETE AND GET methods. The specific information that we will be manipulating will be a user, a friend for a user, a thought for a user, a reaction for a thought. Also whenever we delete a user, their associated thoughts will do as well! 
